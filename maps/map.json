@@ -376,7 +376,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Sounds\/Willkommen.mp3"
+                 "value":"public\/Sounds\/Willkommen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -511,7 +511,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"Sounds\/Willkommen.mp3"
+                         "value":"public\/Sounds\/Willkommen.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -643,7 +643,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"Sounds\/WorldCafe.mp3"
+                         "value":"public\/Sounds\/WorldCafe.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
